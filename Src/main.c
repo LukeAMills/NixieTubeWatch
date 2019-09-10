@@ -39,8 +39,7 @@
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
 #include "stm32l0xx_hal.h"
-/* Added name here: Luke Mills to test git*/
-/*fuck git*/
+
 /* USER CODE BEGIN Includes */
 
 /* USER CODE END Includes */
